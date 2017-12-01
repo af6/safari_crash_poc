@@ -7,9 +7,13 @@ setInterval(350,function f() {history.pushState(0,0,location+"af6.github.io/cras
 me (duh)
 # support
 iOS 10
+
 OS X 10.11.6
 # probable support
 iOS 11.X.X
+
 iOS 9.X.X
+
 macOS 10.12.X
+
 macOS 10.13.X
